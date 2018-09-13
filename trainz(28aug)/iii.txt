@@ -1,0 +1,34 @@
+<section class="third">
+
+		<div class="container">
+            
+			<div class="row">
+				<div class="col-md-4 col-sm-5 col-xs-5">
+					<div class="g-content">
+				<div class="col-md-8 col-sm-7 col-xs-7 ">
+					<div class="g-content">
+						<ul class='circle-container crossRotate'>
+							<li data-id="0" class="active" id="first-circle"><a>
+							<i
+									class="fas fa-chalkboard-teacher"></i></a>
+							</li>
+							<li data-id="1"><a></a></li>
+							<li data-id="2" id="second-circle"><a><i class="fas fa-comments"></i></a>
+							</li>
+							<li data-id="3"><a></a></li>
+							<li data-id="4" id="third-circle"><a> <i class="fas fa-handshake"></i>
+							</a></li>
+							<li data-id="5"><a> </a></li>
+							<li data-id="6" id="fourth-circle"><a> <i class="fas fa-users"></i>
+							</a></li>
+							<li data-id="7"><a> </a></li>
+						</ul>
+			<div id="inside"><p id="service-text"></p></div>
+    </div>
+                </div>
+    
+            </div>
+        </div>
+            </div>
+        </div>
+	</section>

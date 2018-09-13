@@ -1,0 +1,104 @@
+.content
+{
+    margin-left:1.25em;
+}
+#slide1 > div > h2
+{
+    display:none;
+}
+#slide1 > div > h1
+{
+    display: none;
+}
+ #slide1 > div > h3
+{
+    display: none;
+}
+#ribbon
+{
+    display: none;
+}
+#new_year
+{
+    display: none;
+}
+#divider
+{
+    display: none;
+}
+#bootstrap-overrides > div > nav > div > div.navbar-header
+{
+    height:10em;
+}
+#bootstrap-overrides > div > nav > div > div.navbar-header > button
+{
+    height:5em;
+    width:6em;
+}
+#bootstrap-overrides > div > nav > div > div.navbar-header > button > span
+{
+    background-color: orangered;
+    width:2.8em;
+    margin-top:0.5em;
+    margin-left:0.5em;
+}
+#bootstrap-overrides .navbar-nav>li>a
+{
+    line-height:4em;
+    padding-top:0.4em;
+}
+#bootstrap-overrides > div > nav > div > div.navbar-header > a
+{
+    display:none;
+}
+.foot-list-two
+{
+    float: left;
+}
+#myVideo
+{
+ display:none;   
+}
+#logo-bg
+{
+    
+}
+#header > div > nav > div > div.navbar-header
+{
+    height: 3.125em;
+}
+#header > div > nav > div > div.navbar-header > a > img
+{
+    margin-top:0.188em;
+    height:3.75em;
+    width:15.625em;
+}
+
+#header > div > nav > div > div.navbar-header > a
+{
+    height: 5em;
+}
+
+#header > div > nav > div > div.navbar-header > button
+{
+    vertical-align: middle;
+}
+#slide1{
+  background-image: url(../image/ball.jpg) 50% 0 no-repeat fixed;
+    background-size: cover;
+    
+}
+#slide5 > div > div > footer > div > div > div.row.ftr-other-details > div.col-md-6.col-sm-6.col-xs-12.foot-list-one > p
+{
+    font-size:1.625em;
+}
+#slide5 > div > div > footer > div > div > div.row.ftr-other-details > div.col-md-6.col-sm-6.col-xs-12.foot-list-two > p
+{
+    font-size:1.625em;
+}
+
+#slide2 > div > div > h2
+{
+    margin:0;
+    padding:1.25em;
+}
